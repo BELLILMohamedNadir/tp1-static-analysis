@@ -180,7 +180,6 @@ Leaf Methods   : 6     ← Don't call others (terminal ops)
 🎓 Master 2 Software Engineering  
 🏛️ University of Montpellier
 
-📧 [mohamed-nadir.bellil@etu.umontpellier.fr](mailto:mohamed-nadir.bellil@etu.umontpellier.fr)  
 🔗 [GitHub Profile](https://github.com/BELLILMohamedNadir)
 
 ---
