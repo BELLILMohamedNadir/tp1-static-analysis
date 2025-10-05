@@ -5,7 +5,6 @@
 [![Java](https://img.shields.io/badge/Java-11+-orange.svg)](https://www.oracle.com/java/)
 [![JavaFX](https://img.shields.io/badge/JavaFX-17-blue.svg)](https://openjfx.io/)
 [![Maven](https://img.shields.io/badge/Maven-3.6+-red.svg)](https://maven.apache.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Two powerful static analysis tools for Java code analysis and visualization, developed for **HAI913I - Software Comprehension and Restructuring** course.
 
@@ -99,7 +98,7 @@ choco install graphviz
 
 ```
 # All tests
-./test-all.sh
+./run-all-tests.sh
 
 # Individual exercises
 cd exo1 && mvn test
@@ -108,7 +107,7 @@ cd exo2 && mvn test
 
 **Expected Output:**
 ```
-✅ Exercice 1: PASSED (3 tests)
+✅ Exercice 1: PASSED (8 tests)
 ✅ Exercice 2: PASSED (5 tests)
 🎉 ALL TESTS PASSED!
 ```
@@ -130,7 +129,7 @@ tp1/
 │   ├── callgraph.png        # Rendered graph (PNG)
 │   └── pom.xml
 ├── README.md                # This file
-└── test-all.sh              # Automated test script
+└── run-all-tests.sh         # Automated test script
 ```
 
 ---
